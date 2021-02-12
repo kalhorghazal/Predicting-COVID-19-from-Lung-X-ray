@@ -1,1 +1,1 @@
-# Predicting-COVID-19-from-Lung-X-ray-Images
+# Predicting-COVID-19-from-Lung-X-ray
